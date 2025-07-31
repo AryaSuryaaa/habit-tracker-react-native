@@ -52,3 +52,4 @@ Join our community of developers creating universal apps.
 import:
 npx expo install react-native-appwrite react-native-url-polyfill
 npx expo install react-native-paper
+npx expo install react-native-gesture-handler
